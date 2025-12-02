@@ -12,29 +12,29 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
+##  About Me
 - <p align="center">
 - Bienvenue sur mon profil !
 - </p>
 - Je suis un <b>Développeur Data</b> passionné par la construction de solutions intelligentes. Mon travail se concentre sur l'exploitation des données et la mise en œuvre de modèles d'<b>Intelligence Artificielle</b> et de <b>Machine Learning</b> pour générer de la valeur.
 
 
-## 🧠 My Focus Areas
-- 🌐 Web Development
-- 🤖 AI/ML
-- 🛠 Data Engineering
-- 📊 Data Analysis
-- 🧠 Machine Learning & Deep Learning
-- 🗣 Natural Language Processing
-- 👁 Computer Vision
-- 📦 Big Data Technologies
-- ☁️ Cloud Computing for AI
-- 📈 Data Visualization
-- 🚀 MLOps and Model Deployment
-- 🧩 Tools: TensorFlow | PyTorch | Scikit-learn | Pandas | NumPy | Apache Spark | Hugging Face | Keras | Docker & Kubernetes
+##  My Focus Areas
+-  Web Development
+-  AI/ML
+-  Data Engineering
+-  Data Analysis
+-  Machine Learning & Deep Learning
+-  Natural Language Processing
+-  Computer Vision
+-  Big Data Technologies
+-  Cloud Computing for AI
+-  Data Visualization
+-  MLOps and Model Deployment
+-  Tools: TensorFlow | PyTorch | Scikit-learn | Pandas | NumPy | Apache Spark | Hugging Face | Keras | Docker & Kubernetes
 
 
-## 📊 GitHub Stats & Trophies
+## GitHub Stats & Trophies
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arseneKOFFI28&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="arseneKOFFI28's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=arseneKOFFI28&theme=github_dark&hide_border=true&cache_seconds=86400" alt="arseneKOFFI28's GitHub Streak" width="49%" />
@@ -47,7 +47,7 @@
 </p>
 
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 > ## Programming Languages
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
